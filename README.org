@@ -1,0 +1,10 @@
+* network-addresses
+
+A network addresses manipulation library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ralt/network-addresses.git   |
+| commit  | b7ce23e  |
+| systems | network-addresses |
+|---------+-------------------------------------------|
+
